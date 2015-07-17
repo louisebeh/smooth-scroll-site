@@ -7,3 +7,6 @@ Here are some screenshots:
 Landing Page:
 ![Smooooth Scroll Landing Page Screenshot](img/ss_landingpage.png "Landing Page Screenshot")
 
+About Me Page:
+![Smooooth Scroll About Me Screenshot](img/ss_about.png "About Me Screenshot")
+
