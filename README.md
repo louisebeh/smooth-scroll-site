@@ -11,5 +11,5 @@ About Me Page:
 ![Smooooth Scroll About Me Screenshot](img/ss_about.png "About Me Screenshot")
 
 Tag Canvas Implementation:
-![Tag Canvas Screenshot](img/ss_tag-canvas.png "Tag Canvas Screenshot")
+![Tag Canvas Screenshot](img/ss_tagcanvas.png "Tag Canvas Screenshot")
 
