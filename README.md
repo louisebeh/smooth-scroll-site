@@ -13,3 +13,6 @@ About Me Page:
 Tag Canvas Implementation:
 ![Tag Canvas Screenshot](img/ss_tagcanvas.png "Tag Canvas Screenshot")
 
+Owl Carousel with Card Flip Implementation:
+![Card Flip / Carousel Screenshot](img/ss_cardflip-carousel.png "Card Flip / Carousel Screenshot")
+
